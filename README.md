@@ -13,7 +13,7 @@ This project analyzes the operational performance of a ship based on various eng
 - Visualize performance parameters with respect to fuel efficiency and operational behavior.
 - Apply basic engineering principles to interpret real-world data.
 
-## 🔧 Requirements
+##  Requirements
 
 To run the notebook, install the following Python packages:
 
